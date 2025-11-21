@@ -33,4 +33,4 @@ jobs:
           echo "password: $SECRET_PASS"
 
       - name: Variables abiertas
-        run: echo "Versión de mi proyecto: $VERSION_PROYECTO"
+        run: echo "Versión de mi proyecto:VERSION_PROYECTO"
