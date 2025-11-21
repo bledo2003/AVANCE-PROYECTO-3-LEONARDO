@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      NOMBRES: "JUAN PEREZ"
-      APELLIDOS: "LOPEZ"
-      EDAD: "25"
+      NOMBRES: "LEONARDO"
+      APELLIDOS: "ESPINOZA"
+      EDAD: "22"
       VERSION_PROYECTO: "3.0"
 
     steps:
